@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 
-# HEY SHITHEAD ITS ME FROM THE PAST
+# HEY ITS ME FROM THE PAST
 
 Remember you wanted to work on this again?
 
